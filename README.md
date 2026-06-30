@@ -22,3 +22,4 @@ A decoupled, high-performance client-server Tic-Tac-Toe game. The core decision-
 ├── api_main.cpp     # Native Windows Socket (Winsock) API server listener
 ├── gui.py           # Python Tkinter Desktop Interface
 └── .gitignore       # Excludes binaries from repository tracking
+# cpp-tictactoe-minimax-api
